@@ -1,0 +1,5 @@
+#!/bin/bash
+
+./sentry_run prepare
+
+forego start
